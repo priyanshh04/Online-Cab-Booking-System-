@@ -37,5 +37,3 @@ This project includes user management templates for login, registration, and pro
 1. Clone the repository.
 2. Open `index.html` in any modern browser.
 3. Navigate to `login.html` or `register.html` for the respective functionalities.
-
-## Project Structure
