@@ -37,3 +37,19 @@ This project includes user management templates for login, registration, and pro
 1. Clone the repository.
 2. Open `index.html` in any modern browser.
 3. Navigate to `login.html` or `register.html` for the respective functionalities.
+
+## Project Structure
+
+- **user-management/**
+  - **index.html**: Landing page.
+  - **login.html**: Login page.
+  - **register.html**: Registration page.
+  - **profile.html**: User profile page.
+  - **assets/**
+    - **css/**
+      - `styles.css`: Custom styles for the project.
+      - `bootstrap.min.css`: Bootstrap framework (optional if using a CDN).
+    - **js/**
+      - `scripts.js`: JavaScript for form validation and interactivity.
+    - **img/** (optional): Folder for images used in the templates.
+  - **README.md**: Documentation file explaining the project structure, features, and usage.
