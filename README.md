@@ -28,13 +28,23 @@ This project is open-source and free to use for educational purposes.
 # User Management System
 
 ## Overview
-This project includes user management templates for login, registration, and profile pages, styled using Bootstrap and CSS, with JavaScript for interactivity and form validation.
+A simple system for user management, including Login, Registration, and Profile pages. Styled using Bootstrap and CSS, with JavaScript for form validation.
 
 ## Features
-- Responsive design using Bootstrap
-- JavaScript-based form validation
-- Semantic HTML structure
-- Clean and modular codebase
+- **Login:** Email and password validation.
+- **Registration:** Validates name, email, password, and confirmation.
+- **Profile Page:** Displays user information.
+
+## Project Structure
+- **css/**: Contains custom CSS styles.
+- **js/**: Contains JavaScript for form validation.
+- HTML files: Login, Register, and Profile pages.
+
+## Technologies
+- HTML5
+- CSS3
+- Bootstrap 4
+- JavaScript (ES6)
 
 ## How to Run
 1. Clone the repository: https://github.com/priyanshh04/Online-Cab-Booking-System-
@@ -42,19 +52,3 @@ This project includes user management templates for login, registration, and pro
 2. Open `index.html` in any modern browser.
 
 3. Navigate to `login.html` or `register.html` for the respective functionalities.
-
-## Project Structure
-
-- **user-management/**
-  - **index.html**: Landing page.
-  - **login.html**: Login page.
-  - **register.html**: Registration page.
-  - **profile.html**: User profile page.
-  - **assets/**
-    - **css/**
-      - `styles.css`: Custom styles for the project.
-      - `bootstrap.min.css`: Bootstrap framework (optional if using a CDN).
-    - **js/**
-      - `scripts.js`: JavaScript for form validation and interactivity.
-    - **img/** (optional): Folder for images used in the templates.
-  - **README.md**: Documentation file explaining the project structure, features, and usage.
