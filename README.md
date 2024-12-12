@@ -15,7 +15,7 @@ This is a simple Java-based Online Cab Booking System designed for educational p
 
 1. Clone the repository.
 
-   git clone: https://github.com/your-username/Online-Cab-Booking-System.git
+   git clone: https://github.com/priyanshh04/Online-Cab-Booking-System-
 
 2. Open the project in your favorite IDE.
 
@@ -41,7 +41,7 @@ This project includes user management templates for login, registration, and pro
 ## How to Run
 1. Clone the repository.
 
-   git clone: https://github.com/your-username/Online-Cab-Booking-System.git
+   git clone: https://github.com/priyanshh04/Online-Cab-Booking-System-
 
 2. Open `index.html` in any modern browser.
 
