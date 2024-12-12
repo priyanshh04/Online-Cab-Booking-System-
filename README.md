@@ -40,7 +40,11 @@ This project includes user management templates for login, registration, and pro
 
 ## How to Run
 1. Clone the repository.
+
+   git clone: https://github.com/your-username/Online-Cab-Booking-System.git
+
 2. Open `index.html` in any modern browser.
+
 3. Navigate to `login.html` or `register.html` for the respective functionalities.
 
 ## Project Structure
