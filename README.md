@@ -13,7 +13,7 @@ This is a simple Java-based Online Cab Booking System designed for educational p
 
 ## Setup Instructions
 
-1. Clone the repository.
+1. Clone the repository
    git clone: https://github.com/your-username/Online-Cab-Booking-System.git
 
 2. Open the project in your favorite IDE.
