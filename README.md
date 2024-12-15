@@ -33,7 +33,7 @@ OnlineCabBookingSystem/
    - Place the `CabService.java` file here. This file contains the business logic for handling cab-related operations.
 
 ## How to Run the Project
-1. Clone the repository: https://github.com/priyanshh04/Online-Cab-Booking-System-
+1. Clone the repository: https://github.com/priyanshh04/Online-Cab-Booking-System-.git
    
 2. Open the project in your favorite Java IDE (e.g., IntelliJ IDEA, Eclipse, VS Code).
 
@@ -78,7 +78,7 @@ A simple system for user management, including Login, Registration, and Profile 
 - JavaScript (ES6)
 
 ## How to Run
-1. Clone the repository: https://github.com/priyanshh04/Online-Cab-Booking-System-
+1. Clone the repository: https://github.com/priyanshh04/Online-Cab-Booking-System-.git
 
 3. Open `index.html` in any modern browser.
 
