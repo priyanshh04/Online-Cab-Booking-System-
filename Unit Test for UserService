@@ -1,0 +1,21 @@
+package com.app.service;
+
+import com.app.model.User;
+import org.junit.jupiter.api.Test;
+
+import java.util.List;
+
+import static org.junit.jupiter.api.Assertions.assertEquals;
+
+public class UserServiceTest {
+    @Test
+    public void testAddUser() {
+        UserService userService = new UserService();
+        User user = new User("John Doe", "john.doe@example.com");
+        userService.addUser(user);
+
+        List<User> users = userService.getAllUsers();
+        assertEquals(1, users.size());
+        assertEquals("John Doe", users.get(0).getName());
+    }
+}
