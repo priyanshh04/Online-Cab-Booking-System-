@@ -1,0 +1,20 @@
+package com.app.service;
+
+import com.app.model.User;
+import org.junit.jupiter.api.Test;
+
+import static org.junit.jupiter.api.Assertions.assertEquals;
+
+public class UserServiceTest {
+
+    @Test
+    public void testAddUser() {
+        UserService userService = new UserService();
+        User user = new User();
+        user.setName("John");
+        user.setEmail("john@example.com");
+
+        userService.addUser(user);
+        assertEquals(1, userService.getAllUsers().size());
+    }
+}
